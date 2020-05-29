@@ -1,0 +1,11 @@
+.footer {
+    height: 10vh;
+    background-image: linear-gradient(220deg, #1fff01 0%, #0cdceb 100%);
+    color: darkslategrey;
+    margin: 5vh 0 0 0;
+}
+
+.footer-content {
+    text-align: center;
+    padding: 3vh 0 0 0;
+}
